@@ -1,5 +1,7 @@
 Estoy aprendiendo Git para ser un poco más útil.
 
-Soy Javier Curto Brull y estudio informática.
+Soy Javier Curto Brull.
+
+Estudio informática y programación.
 
 Un saludo.
