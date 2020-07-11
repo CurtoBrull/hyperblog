@@ -13,4 +13,5 @@ Un blog increíble para el [Curso de Git y Github](https://platzi.com/clases/git
 * Conseguir trabajo de Desarrollador.
 * Probando cherry-pick
 * incluye ejemplos
+* todas las edades
 
