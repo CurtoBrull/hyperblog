@@ -11,5 +11,6 @@ Un blog increíble para el [Curso de Git y Github](https://platzi.com/clases/git
 * Aprender a colaborar con otras personas.
 * Terminar la "Escuela de Desarrollo Web" de Platzi.
 * Conseguir trabajo de Desarrollador.
+* Probando cherry-pick
 
 
